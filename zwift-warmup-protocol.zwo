@@ -1,0 +1,88 @@
+<workout_file>
+	<author>Jack Brown (via TrainingPeaks)</author>
+	<name>Structured warm-up protocol</name>
+	<description>Structured warm-up protocol designed by Jack Brown Endurance</description>
+	<sportType>bike</sportType>
+	<tags/>
+	<workout>
+		<SteadyState Duration="300" Power="0.5">
+			<textevent timeoffset="0" message="Begin with the MOBILISE phase - easy spin for 5 min @ 50% FTP. Loosen the legs and prepare your joints and muscles for the efforts ahead"/>
+		</SteadyState>
+		<SteadyState Duration="60" Power="0.55">
+			<textevent timeoffset="0" message="Begin RAISE phase - 10 min @ 55→100% FTP
+
+Start with 1 min @ 55% FTP - Begin building, focus on smooth pedalling"/>
+		</SteadyState>
+		<SteadyState Duration="60" Power="0.6">
+			<textevent timeoffset="0" message="Next 1 min @ 60% FTP - Gradually increasing, heart rate rising"/>
+		</SteadyState>
+		<SteadyState Duration="60" Power="0.65">
+			<textevent timeoffset="0" message="Now 1 min @ 65% FTP - Steady build, you should start feeling a bit warmer now"/>
+		</SteadyState>
+		<SteadyState Duration="60" Power="0.7">
+			<textevent timeoffset="0" message="Next up, 1 min @ 70% FTP - Build continues, keep it smooth"/>
+		</SteadyState>
+		<SteadyState Duration="60" Power="0.75">
+			<textevent timeoffset="0" message="Now 1 min @ 75% FTP - Good work, your core temperature will be rising"/>
+		</SteadyState>
+		<SteadyState Duration="60" Power="0.8">
+			<textevent timeoffset="0" message="Next 1 min @ 80% FTP - Getting gradually harder, remember to hydrate"/>
+		</SteadyState>
+		<SteadyState Duration="60" Power="0.85">
+			<textevent timeoffset="0" message="Now 1 min @ 85% FTP - Nearly there..."/>
+		</SteadyState>
+		<SteadyState Duration="60" Power="0.9">
+			<textevent timeoffset="0" message="Next up, 1 min @ 90% FTP - Build continues, well done"/>
+		</SteadyState>
+		<SteadyState Duration="60" Power="0.95">
+			<textevent timeoffset="0" message="Now 1 min @ 95% FTP - Almost there, you&apos;ll be feeling warm and sweaty now"/>
+		</SteadyState>
+		<SteadyState Duration="60" Power="1">
+			<textevent timeoffset="0" message="Last step in the RAISE phase, 1 min @ 100% FTP - Keep it up, some recovery coming soon"/>
+		</SteadyState>
+		<SteadyState Duration="180" Power="0.65">
+			<textevent timeoffset="0" message="Steady cycling now, remember to hydrate. The hard effort coming in 3 minutes will prime your oxygen uptake for the race start"/>
+		</SteadyState>
+		<SteadyState Duration="60" Power="1.15">
+			<textevent timeoffset="0" message="Now the PRIME phase - 1 min @ 115% FTP
+
+GO. Commit to the minute and pace your effort evenly"/>
+		</SteadyState>
+		<SteadyState Duration="60" Power="0.55">
+			<textevent timeoffset="0" message="Easy spin gives you a moment to recover, remember to keep drinking. The NEURAL phase is coming up next"/>
+		</SteadyState>
+		<SteadyState Duration="10" Power="1.25">
+			<textevent timeoffset="0" message="Sprint 1 - 10s @ 125% FTP
+High cadence, put some power down"/>
+		</SteadyState>
+		<SteadyState Duration="70" Power="0.55">
+			<textevent timeoffset="0" message="Easy spin between sprints. Two more progressive sprints coming, these activate your explosive muscle fibres"/>
+		</SteadyState>
+		<SteadyState Duration="10" Power="1.5">
+			<textevent timeoffset="0" message="Sprint 2 - 10s @ 150% FTP
+Push a little bit harder now"/>
+		</SteadyState>
+		<SteadyState Duration="70" Power="0.55">
+			<textevent timeoffset="0" message="Easy spin between sprints, remember to hydrate"/>
+		</SteadyState>
+		<SteadyState Duration="10" Power="1.75">
+			<textevent timeoffset="0" message="Sprint 3 - 10s @ 175% FTP
+Explosive effort"/>
+		</SteadyState>
+		<SteadyState Duration="60" Power="0.55">
+			<textevent timeoffset="0" message="Easy spin to recover. Standing start sprints are next with maximum effort to increase force production at race start. Turn off ERG mode if you prefer"/>
+		</SteadyState>
+		<SteadyState Duration="5" Power="2.5">
+			<textevent timeoffset="0" message="POTENTIATION phase begins
+Sprint 1 - 5s @ maximum effort
+GO, GO, GO"/>
+		</SteadyState>
+		<SteadyState Duration="60" Power="0.55">
+			<textevent timeoffset="0" message="Easy spin between sprints. One more sprint left and then enter your race pen and perform 5 min @ 55% FTP. This will help clear any short-term fatigue whilst maintaining muscle temperature"/>
+		</SteadyState>
+		<SteadyState Duration="5" Power="2.5">
+			<textevent timeoffset="0" message="Sprint 2 - 5s @ maximum effort
+Give it everything"/>
+		</SteadyState>
+	</workout>
+</workout_file>
